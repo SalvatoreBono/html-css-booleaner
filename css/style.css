@@ -39,11 +39,12 @@ main{
 table{
    width: 1650px;
    height: 200px;
-   border-spacing: 0;
+   border-collapse: collapse;
 }
 thead{
    background-color: rgb(58, 166, 227);
    color: white;
+   font-weight: bolder;
 }
 .row{
    width: 25%;
