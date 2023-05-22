@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 header{
    height: 180px;
    background-position: top center;
@@ -19,16 +24,29 @@ h1{
 #Scritta-in-celeste{
    color: rgb(75, 186, 234);
 }
+main{
+   margin-left: 15px;
+}
+.spaziatura{
+   margin-top: 20px;
+}
 #evidenziato{
    background-color: yellow;
 }
+#lista{
+   margin-left: 20px;
+}
 table{
-   width: 100%;
-   height: 250px;
+   width: 1650px;
+   height: 200px;
+   border-spacing: 0;
 }
 thead{
    background-color: rgb(58, 166, 227);
    color: white;
+}
+.row{
+   width: 25%;
 }
 .riga-celeste{
    background-color: rgb(178, 228, 241);
