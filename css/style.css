@@ -1,7 +1,7 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
 }
 header{
    height: 180px;
@@ -30,7 +30,7 @@ main{
 .spaziatura{
    margin-top: 20px;
 }
-#evidenziato{
+.evidenziato{
    background-color: yellow;
 }
 #lista{
